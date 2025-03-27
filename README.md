@@ -31,7 +31,7 @@ python snake.py
 
 ## 📷 Captura de Tela
 
-![Snake Game Screenshot](https://via.placeholder.com/600x400.png?text=Snake+Game)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## 📜 Licença
 
